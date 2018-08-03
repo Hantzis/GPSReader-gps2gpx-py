@@ -15,5 +15,13 @@ To this (GPX (actually XML)):
   </trkpt>
 
 
+# Dependencies
+
+this scripts uses libraries that you must to install in your python distribution, maybe with pip:
+
+- tqdm
+- bs4
+
+
 ----
 Maybe later i'll put features like reproject coordinates or change timezone, etc.
