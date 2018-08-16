@@ -25,6 +25,12 @@ this scripts uses libraries that you must to install in your python distribution
 - tqdm
 - bs4
 
+# Usage
+
+```bash
+python3 gps2gpx.py file.txt
+```
+The output gpx file will be a file with the same name than original but with .gpx extension created in the same path.
 
 ----
 Maybe later i'll put features like reproject coordinates or change timezone, etc.
